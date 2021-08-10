@@ -8,7 +8,7 @@
 
 - 👨‍💻 I'm currently studying Computer Science at [UFRGS](https://ufrgs.br)
 
-- 🌱 I’m currently learning ***HTML, CSS and JAVASCRIPT***
+- 🌱 I’m currently learning ***HTML, CSS, JAVASCRIPT***
 
 <p align="left">
 <a href="https://www.linkedin.com/in/dienifferperdomo/" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="dieniffer" height="20" width="20" /></a>
